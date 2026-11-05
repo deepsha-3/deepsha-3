@@ -20,52 +20,37 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<p align="left"> <!-- 70%+ Skills (Proficient) --> <img src="https://skillicons.dev/icons?i=html,css,cpp,mysql" alt="HTML, CSS, C++, MySQL" title="HTML/CSS, C/C++, Database (SQL)" /> <!-- 50% - 65% Skills (Intermediate) --> <img src="https://skillicons.dev/icons?i=python,js,php" alt="Python, JavaScript, PHP" title="Python, JavaScript, PHP" /> <!-- 30% - 35% Skills (Familiar) --> <img src="https://skillicons.dev/icons?i=linux,java,figma" alt="Linux, Java, Figma" title="Linux, Java, UI/UX Design" /> <!-- Non-Icon Skills (AI & General) --> <img src="https://skillicons.dev/icons?i=windows" alt="Windows/Office" title="Others (Office & Computer)" /> <img src="https://img.shields.io/badge/AI-55%25-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI" title="AI" /> </p>
+## 🛠️ Tech Stack & Tools
 
-**Programming & Scripting**
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C/C++" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" />
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,bash" alt="Programming Languages" title="Python, C/C++, Java, JavaScript, PHP, Bash" />
 </p>
 
-**Data, AI & Analytics**
-<p>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" title="Anaconda" />
-  <img src="https://skillicons.dev/icons?i=googlecolab" alt="Google Colab" title="Google Colab" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="48" />
-  <img src="https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="HDFS" height="48" />
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive" height="48" />
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="Web Development" title="HTML5, CSS3, Node.js" />
 </p>
 
-**Web & Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+### 🤖 Data, AI & Analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda,googlecolab" alt="Data & AI Tools" title="Anaconda, Google Colab" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" height="48" />
+  <img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="HDFS" height="48" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" height="48" />
 </p>
 
-**Tools, Design & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" title="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" title="Illustrator" />
+### ⚙️ Tools, Platforms & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,ubuntu,linux,figma,photoshop,illustrator,mysql" alt="Tools and Platforms" title="VS Code, Git, Ubuntu/Linux, Figma, Photoshop, Illustrator, MySQL" />
 </p>
 
-**Office & Productivity**
-<p>
-  <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word" height="48" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" height="48" />
-  <img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" height="48" />
+### 📊 Office & Productivity
+<p align="left">
+  <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="Word" height="48" />
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" height="48" />
+  <img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" height="48" />
 </p>
-
----
 
 ## 📫 Connect With Me
 
