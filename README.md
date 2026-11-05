@@ -34,7 +34,7 @@
 
 ### 🤖 Data, AI & Analytics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda,googlecolab" alt="Data & AI Tools" title="Anaconda, Google Colab" />
+  <img src="https://skillicons.dev/icons?i=anaconda,googlecolab" alt="Data & AI Tools" title="Anaconda" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" height="48" />
   <img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="HDFS" height="48" />
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" height="48" />
