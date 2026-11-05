@@ -20,25 +20,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🚀 Technical Expertise
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-75%25-8A2BE2?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
-  <img src="https://img.shields.io/badge/Database%20(SQL)-70%25-8A2BE2?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-75%25-8A2BE2?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-30%25-8A2BE2?style=flat-square&logo=figma&logoColor=white" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/JavaScript-50%25-8A2BE2?style=flat-square&logo=javascript&logoColor=white" alt="JS" />
-  <img src="https://img.shields.io/badge/PHP-50%25-8A2BE2?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Linux-35%25-8A2BE2?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-65%25-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-30%25-8A2BE2?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/AI-55%25-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Others%20(Office%20%26%20Computer)-85%25-8A2BE2?style=flat-square&logo=windows&logoColor=white" alt="Others" />
-</p>
-
----
-
-## 🛠️ Stack & Tools
+<p align="left"> <!-- 70%+ Skills (Proficient) --> <img src="https://skillicons.dev/icons?i=html,css,cpp,mysql" alt="HTML, CSS, C++, MySQL" title="HTML/CSS, C/C++, Database (SQL)" /> <!-- 50% - 65% Skills (Intermediate) --> <img src="https://skillicons.dev/icons?i=python,js,php" alt="Python, JavaScript, PHP" title="Python, JavaScript, PHP" /> <!-- 30% - 35% Skills (Familiar) --> <img src="https://skillicons.dev/icons?i=linux,java,figma" alt="Linux, Java, Figma" title="Linux, Java, UI/UX Design" /> <!-- Non-Icon Skills (AI & General) --> <img src="https://skillicons.dev/icons?i=windows" alt="Windows/Office" title="Others (Office & Computer)" /> <img src="https://img.shields.io/badge/AI-55%25-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI" title="AI" /> </p>
 
 **Programming & Scripting**
 <p>
